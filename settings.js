@@ -106,7 +106,7 @@ global.alivelogo = process.env.ALIVE_IMAGE || `https://telegra.ph/file/b3f17c16e
 //👇 Alive message
 global.ALIVE_MESSAGE = process.env.ALIVE_MESSAGE || `Hi there 😂, hope you're okay {sender}. 😅 I'm Okay. Am also alive and running for {uptime}.😅 How may I help 👀`
 //👇 Welcome Mesaage
-global.WELCOME = process.env.WELCOME || `Welcome {sender}`
+global.WELCOME = process.env.WELCOME || `Welcome {sender} to {group-name}:{gname}`
 //👇 welcome image 
 global.WELCOME_IMAGE = process.env.WELCOME_IMAGE || ``
 //👇 Goodbye message 
@@ -118,7 +118,7 @@ global.NO_BLOCK = ["94715166712","94719574492"]
 //👇 DISABLE download words
 global.IMG_BLOCKER = ["xxx","sex","mia"]
 //👇 Open ai API Put Withouth "sk-" ( "sk-" අයින් කරල ඉතුරු ටික දාන්න )
-global.CHATGPT_API = ''
+global.CHATGPT_API = 'jQMdY6naqGexL03fEkW4T3BlbkFJDDSgqcfnWxAiIrgXi26S'
 //👇 Sex  video Download Allowed Groups
 global.SEX_DOWNLOAD_GROUPS = ['120363147404508506@g.us']
 //👇 Your Bot Group Link
