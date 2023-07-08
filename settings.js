@@ -31,7 +31,7 @@ const chalk = require('chalk')
 //👇 if you need seen massage use " true " , මැසේජ් සීන් කරන්න ඔනි නම් true දාන්න ඔනි නැත්තම් false දාන්න
 global.READ_MASSAGE = false
 //👇 enable DISABLE Girls Voice Reply , Auto Voice Reply යවන්න ඔනි නම් true දාන්න 
-global.VOICE_REPLY = false
+global.VOICE_REPLY = true
 //👇 Do you want show time on your bio use "true" want DISABLE use "false" , ස්වයං ක්‍රීය Bio එක ඔනි නම් true දාන්න
 global.AUTO_BIO = false
 //👇 Inbox massage block PM block , ඉන්බොක් බ්ලොක් 
@@ -76,15 +76,15 @@ global.DISABLE_COMMAND_MESSAGE_SEND = false
        ✨ BOT INFO SETTINGS ✨
 */
 // You Bots Owner Number 
-global.owner = ['254796711927'] 
+global.owner = ['254706285317'] 
 //👇 Your Caption ( Image Video )
-global.cap = 'WiPTech'
+global.cap = 'Prod Chris Bot'
 //👇 Your Bot Name
-global.botnma =  'WiPTech' 
+global.botnma =  'TechBot' 
 //👇 Your name
-global.ownernma =  'WiPTech' 
+global.ownernma =  'Prod Chris Bot' 
 //👇 Sticker Author Name
-global.packname =  'WiPTech' 
+global.packname =  'Prod Chris Bot' 
 //👇 Inbox Block Massage 
 global.INBOX_BLOCK_MSG = 'BLOCK !!!'
 //👇 Owner React Imoji
@@ -104,7 +104,7 @@ global.LANG = 'EN'
 //Alive logo
 global.alivelogo = process.env.ALIVE_IMAGE || `https://telegra.ph/file/b3f17c16eedf99731a52d.jpg`
 //👇 Alive message
-global.ALIVE_MESSAGE = process.env.ALIVE_MESSAGE || `Hi there 😂, hope you're okay {sender}. 😅 I'm Okay. Am also alive and running for {uptime}.😅 How may I help 👀`
+global.ALIVE_MESSAGE = process.env.ALIVE_MESSAGE || `Hi there 😂, hope you're okay.😅 I'm alive & running.😅 How may I help 👀 human`
 //👇 Welcome Mesaage
 global.WELCOME = process.env.WELCOME || `Welcome {sender} to {group-name}:{gname}`
 //👇 welcome image 
@@ -166,7 +166,7 @@ global.mess = {
 //other
 global.pemilik = ['254796711927'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
 global.premium = ['254796711927'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
-global.pengguna = 'WiPTech' // Your name ඔබේ නම 
+global.pengguna = 'Prod Chris Bot' // Your name ඔබේ නම 
 global.sessionName = 'session'
 global.prefix = ['!','#'] 
 global.sp = '👽'
