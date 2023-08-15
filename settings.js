@@ -67,7 +67,7 @@ global.INBOX_ONLY_WORK = false
 //👇 Auto ChatGPT ( You Must put CHATGPT API KEY For use this )
 global.AUTO_OPEN_AI = false
 //👇 Bot On Privet
-global.PRIVET_BOT = true
+global.PRIVET_BOT = false
 //👇 DISABLE Bot Commands But Others Are Working 
 global.DISABLE_COMMANDS = false
 //👇 DISABLE Bot Commands On Message Send On Off
@@ -80,7 +80,7 @@ global.owner = ['254706285317']
 //👇 Your Caption ( Image Video )
 global.cap = 'Prod Chris Bot'
 //👇 Your Bot Name
-global.botnma =  'TechBot' 
+global.botnma =  'Chris' 
 //👇 Your name
 global.ownernma =  'Prod Chris Bot' 
 //👇 Sticker Author Name
@@ -114,7 +114,7 @@ global.GOODBYE = process.env.GOODBYE || ``
 //👇 Good bye image
 global.GOODBYE_IMAGE = process.env.GOODBYE_IMAGE || ``
 //👇 DISABLE PM Block numbers
-global.NO_BLOCK = ["94715166712","94719574492"]
+global.NO_BLOCK = ["94715166712","94719574492", "0775146260"]
 //👇 DISABLE download words
 global.IMG_BLOCKER = ["xxx","sex","mia"]
 //👇 Open ai API Put Withouth "sk-" ( "sk-" අයින් කරල ඉතුරු ටික දාන්න )
@@ -122,13 +122,13 @@ global.CHATGPT_API = 'jQMdY6naqGexL03fEkW4T3BlbkFJDDSgqcfnWxAiIrgXi26S'
 //👇 Sex  video Download Allowed Groups
 global.SEX_DOWNLOAD_GROUPS = ['120363147404508506@g.us']
 //👇 Your Bot Group Link
-global.GROUP_LINK = 'https://chat.whatsapp.com/Ih1udrdBNvX5xSu5mUVdql'
+global.GROUP_LINK = 'https://wiptech.xyz'
 /*
 
    🍃 OTHER 🍃
 
 */
-global.PORT = process.env.PORT ||  '8000'
+global.PORT = process.env.PORT ||  '8092'
 global.zenzapi = '01ABEB1E11'
 /*
 
@@ -170,7 +170,7 @@ global.pengguna = 'Prod Chris Bot' // Your name ඔබේ නම
 global.sessionName = 'session'
 global.prefix = ['!','#'] 
 global.sp = '👽'
-global.weem = 'QUEEN ELISA'
+global.weem = 'Chris😊'
 
 global.limitawal = {
     premium: "Infinity", 
